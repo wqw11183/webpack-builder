@@ -1,5 +1,5 @@
 # 开箱即用的多页面webpack脚手架
-修改自https://github.com/JesseZhao1990/multipage-webpack-scaffolding的脚手架
+修改自https://github.com/JesseZhao1990/multipage-webpack-scaffolding 的脚手架
 更适合自己使用了。。
 
 ## Build Setup
